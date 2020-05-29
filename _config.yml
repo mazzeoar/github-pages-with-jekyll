@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Fake website
+author: Alexander Supertramp
+email: asupertramp@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Just a fun loving furry in a world full of e-boys 
+  Not affiliated with Chris McCandles, just a fan really
+  that's why I have the name uWu
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: aSupertramp # DO NOT include the @ character, or else the build will fail!
+github_username:  superTrampBoi # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
