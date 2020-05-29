@@ -1,3 +1,8 @@
+---
+title: "Epic Blog Post #1"
+date: 2020-05-28
+---
+
 You know I'm worried that one day I'll be applying for a job or something 
 and I'll have on my resume that I know Github and they'll go to my 
 account and see this Furry website and think that I'm not a good
